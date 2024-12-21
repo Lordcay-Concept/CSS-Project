@@ -1,0 +1,82 @@
+body{
+
+    background-color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+
+    color: blue;
+}
+p{
+
+    color: black;
+}
+.heading{
+    color: rgb(23, 98, 236);
+}
+#menu{
+    background-color: rgb(9, 9, 189);
+    width: auto;
+    color:rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 2px;
+}
+#menu a{
+    text-decoration: none;
+}
+#menu a:hover{
+    background-color: rgb(255, 51, 0);
+}
+.link{
+    color: rgb(255, 51, 0);
+}
+#hero{
+    background-color: rgb(255, 51, 0);
+    height: 400px;
+    width: auto;
+    border-radius: 10px;
+    color: antiquewhite;
+    padding: 5px 5px;
+    margin: 5px;
+    text-align: center;
+}
+.text{
+    color: white;
+}
+#hero h1{
+    font-size: 60px;
+    margin: 2px;
+}
+#hero p{
+    font-size: 40px;
+}
+#hero a{
+    background-color: blue;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: inline-block;
+}
+#hero a:hover{
+    background-color: rgb(7, 7, 175);
+}
+
+#courses{
+    margin: 20px;
+    text-align: center;
+}   
+#courses h1{
+    font-size: 3rem;
+    color: rgb(2, 116, 116);
+    text-align: center;
+    margin-bottom: 20px;
+}
+#courses img{
+    height: 200px;
+    margin: 0px 7px;
+    border-radius: 5px;
+    
+}
